@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+Smart Contract: Error: server returned an error response: error code -32000: insufficient funds for gas * price + value: balance 0, tx cost 131173787409, overshot 131173787409
+
+could not get fund to deploy my smart contract , used the website to fund but the transaction has not reflected and  they said sometimes it takes time  https://sepolia-faucet.lisk.com/ this my wallet address : 0x8D3f2c20C1a4efeB45975dC7b29Ba793A072bf21
+
